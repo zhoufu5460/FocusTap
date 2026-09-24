@@ -15,7 +15,7 @@ FocusTap（以下简称「本应用」）是一款纯本地的极简专注计时
 
 - 无账号体系：无需注册、登录，我们不掌握任何用户身份信息
 - 无埋点统计：不集成任何第三方分析 SDK，不记录使用行为
-- 无广告（当前版本）：不集成任何广告 SDK
+- 无广告、无内购、无订阅：不集成任何广告 SDK，付费一次下载、永久使用
 - 零系统权限：不申请通知、麦克风、相册、定位、蓝牙、通讯录等任何系统权限，运行时不会出现任何权限弹窗
 
 **2. 数据仅存储在你的设备上**
@@ -30,7 +30,7 @@ FocusTap（以下简称「本应用」）是一款纯本地的极简专注计时
 
 **4. 政策变更**
 
-若未来版本引入需要更新本政策的功能（如广告），我们将在本页面更新内容并标注新的日期。
+若未来版本引入需要更新本政策的功能，我们将在本页面更新内容并标注新的日期。
 
 **5. 联系我们**
 
@@ -48,7 +48,7 @@ FocusTap (the "App") is a fully local, minimal focus timer. Your privacy matters
 
 - No accounts: no sign-up or login; we hold no identity information
 - No analytics: no third-party analytics SDKs, no usage tracking
-- No ads (current version): no ad SDKs integrated
+- No ads, no in-app purchases, no subscriptions: one-time purchase, no ad SDKs integrated
 - Zero permissions: the App requests no system permissions (no notifications, microphone, photos, location, Bluetooth, or contacts) and shows no permission dialogs
 
 **2. Data stays on your device**
@@ -63,7 +63,7 @@ The App collects no data from any user, including children.
 
 **4. Changes to this policy**
 
-If future versions introduce features requiring policy updates (e.g., ads), we will update this page with a new date.
+If future versions introduce features requiring policy updates, we will update this page with a new date.
 
 **5. Contact**
 
